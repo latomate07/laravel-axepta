@@ -1,5 +1,5 @@
 {
-    "name": "tlm/laravel-axepta",
+    "name": "latomate07/laravel-axepta",
     "description": "Laravel package for BNP Paribas Axepta payment integration",
     "type": "library",
     "license": "MIT",
