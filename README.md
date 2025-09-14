@@ -7,7 +7,7 @@ A Laravel package for BNP Paribas Axepta payment gateway integration.
 Install the package via composer:
 
 ```bash
-composer require tlm/laravel-axepta
+composer require latomate07/laravel-axepta
 ```
 
 Publish the configuration file:

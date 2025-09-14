@@ -1,0 +1,16 @@
+vendor
+composer.lock
+node_modules
+package-lock.json
+yarn.lock
+.DS_Store
+.env
+.env.local
+.env.*.local
+.idea
+.vscode
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*.bak
