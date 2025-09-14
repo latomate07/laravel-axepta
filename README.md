@@ -134,10 +134,6 @@ The package supports the following configuration options:
 composer test
 ```
 
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
 ## Security Vulnerabilities
 
 If you discover a security vulnerability, please send an e-mail to lmtahirou@gmail.com .
